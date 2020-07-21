@@ -1,2 +1,15 @@
 # StivDC.github.io
-lmoa XD!
+[^1]: lmoa XD!
+```js
+// XDDDDD
+```
+#### Regular
+| Tables | Are | Great |
+| ------ | --- | ----- |
+| •      | •   | •     |
+| •      | •   | •     |
+
+```mermaid
+graph LR
+  Start --> End
+```
