@@ -1,30 +1,9 @@
-console.log("")                                                                                                                                
-console.log("                                                    &&                      ")
-console.log("                                     &@@@               @@                   ")
-console.log("                                    @@  @@#               %@@                 ") 
-console.log("                                  &@@    /@@                @@@                ") 
-console.log("                                 @@        @@/               @@@%               ")
-console.log("                 &@@*          @@&          *@@               @@@@              ")
-console.log("                @@@@@@        @@              @@(             @@@@&             ")
-console.log("                 @@@(       @@&                /@@            *@@@@,            ")
-console.log("                                                               @@@@@            ")
-console.log("                                                               @@@@@            ")
-console.log("                                                               @@@@@            ")
-console.log("                                                               @@@@@            ")
-console.log("                                                              .@@@@%            ")
-console.log("                 @@@*                                         #@@@@             ")
-console.log("                @@@@@@                                        @@@@              ")
-console.log("                 @@@(                                        &@@@               ")
-console.log("                                                            &@@#                ")
-console.log("                                                           @@@                  ")
-console.log("                                                         @@*                    ")
-console.log("                                                      @@.                       ")
-console.log("                                                                               ")
-console.log("")                                                                            
+                                                                     
  AOS.init({
  	duration: 800,
  	easing: 'slide',
- 	once: true
+	 once: true
+	 
  });
 
 jQuery(document).ready(function($) {
@@ -42,7 +21,29 @@ jQuery(document).ready(function($) {
   };
   loader();
 
-	
+  console.log("")                                                                                                                                
+  console.log("                                                    &&                      ")
+  console.log("                                     &@@@               @@                   ")
+  console.log("                                    @@  @@#               %@@                 ") 
+  console.log("                                  &@@    /@@                @@@                ") 
+  console.log("                                 @@        @@/               @@@%               ")
+  console.log("                 &@@*          @@&          *@@               @@@@              ")
+  console.log("                @@@@@@        @@              @@(             @@@@&             ")
+  console.log("                 @@@(       @@&                /@@            *@@@@,            ")
+  console.log("                                                               @@@@@            ")
+  console.log("                                                               @@@@@            ")
+  console.log("                                                               @@@@@            ")
+  console.log("                                                               @@@@@            ")
+  console.log("                                                              .@@@@%            ")
+  console.log("                 @@@*                                         #@@@@             ")
+  console.log("                @@@@@@                                        @@@@              ")
+  console.log("                 @@@(                                        &@@@               ")
+  console.log("                                                            &@@#                ")
+  console.log("                                                           @@@                  ")
+  console.log("                                                         @@*                    ")
+  console.log("                                                      @@.                       ")
+  console.log("                                                                               ")
+  console.log("")       
 
 	var siteMenuClone = function() {
 
