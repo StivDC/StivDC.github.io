@@ -14,8 +14,8 @@
     <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
 </head>
 
-<body>
-    <nav class="navbar navbar-dark navbar-expand-lg fixed-top portfolio-navbar gradient">
+<body style="background: linear-gradient(rgb(144,81,207) 0%, white), url(https://cdn.bootstrapstudio.io/placeholders/1400x800.png);box-shadow: 0px 0px;">
+        <nav class="navbar navbar-dark navbar-expand-lg fixed-top portfolio-navbar gradient">
         <div class="container"><a class="navbar-brand logo" href="#">Mapbox sandbox tester</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navbarNav"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div
                 class="collapse navbar-collapse" id="navbarNav">
@@ -28,7 +28,7 @@
         </div>
         </div>
     </nav>
-    <div id='map' style='width: 750px; height: 750px;'></div>
+    <div id='map' style='width: 750px; height: 750px; margin:0 auto;'></div>
     <script>
     mapboxgl.accessToken = 'pk.eyJ1Ijoia2Jycy1kYXZpZXNjcyIsImEiOiJja2RyaDhkY2YwNXF2Mnlyb202czg0MG9iIn0.mJ7mwtmS57oKKN6vwBGMTA';
     var map = new mapboxgl.Map({
