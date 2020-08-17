@@ -1,6 +1,7 @@
 body { margin: 0; padding: 0; }
 #map { 
     position: absolute;
+    padding-top: 200px;
      top: 200px; 
      bottom: 200px; 
      width: 100%;
